@@ -1,0 +1,19 @@
+{
+  "name": "node-generator-vs-async",
+  "version": "1.0.0",
+  "description": "Performace benchmark betwee generator and async.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "node",
+    "generator",
+    "async"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "benchmark": "^2.1.3",
+    "co": "^4.6.0"
+  }
+}
